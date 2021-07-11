@@ -1,12 +1,18 @@
 
-/* CSS files add styling rules to your content */
-
 body {
     font-family: helvetica, arial, sans-serif;
     margin: 20%;
     margin-top: 0;
     color: #3D3D3D;
 }
+
+/*figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 0.5px;
+  text-align: center;
+}*/
 
 h1 {
     font-style: italic;
